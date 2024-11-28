@@ -1,0 +1,25 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+openai>=1.6.1
+chromadb
+crewai
+pypdf
+python-magic
+
+# PDF processing
+pdfminer.six
+pdf2image
+Pillow
+pi-heif
+unstructured
+unstructured-inference
+
+# Optional dependencies for better PDF handling
+pytesseract
+detectron2-cuda11
+pytesseract
